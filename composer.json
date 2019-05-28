@@ -15,12 +15,12 @@
     "extra": {
         "shopware-plugin-class": "Swag\\CustomModule\\CustomModule",
         "label": {
-            "de-DE": "Beispiel Plugin, welches ein neues eigenes Module zu der Administration hinzufügt",
-            "en-GB": "Example plugin which creates a new custom module for the Administration"
+            "de-DE": "Label für das Plugin CustomModule",
+            "en-GB": "Label for the plugin CustomModule"
         },
         "description": {
-            "de-DE": "Beispiel Plugin, welches ein neues eigenes Module zu der Administration hinzufügt",
-            "en-GB": "Example plugin which creates a new custom module for the Administration"
+            "de-DE": "Beschreibung für das Plugin CustomModule",
+            "en-GB": "Description for the plugin CustomModule"
         }
     },
     "autoload": {
