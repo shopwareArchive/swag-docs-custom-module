@@ -31,6 +31,7 @@ class UsedClassesAvailableTest extends TestCase
         $finder = new Finder();
         $finder->in(realpath(__DIR__ . '/../'));
         $finder->exclude('Test');
+
         return $finder->files()->name('*.php');
     }
 }

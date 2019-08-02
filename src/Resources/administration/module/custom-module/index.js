@@ -12,7 +12,7 @@ Module.register('custom-module', {
         overview: {
             component: 'sw-product-list',
             path: 'overview'
-        },
+        }
     },
 
     navigation: [{
