@@ -1,4 +1,4 @@
-import { Module } from 'src/core/shopware';
+const { Module } = Shopware;
 
 Module.register('custom-module', {
     type: 'plugin',
